@@ -1,0 +1,4 @@
+= Fabric8 WIT Performance Tests
+
+Based on https://github.com/fabric8-services/fabric8-auth-tests
+
